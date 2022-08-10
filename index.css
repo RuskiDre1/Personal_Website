@@ -44,3 +44,6 @@
     font-weight: bold; 
     color:black;
 }
+form {
+    max-width: 800px;
+}
