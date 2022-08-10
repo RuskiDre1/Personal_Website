@@ -19,3 +19,15 @@
     margin-left: 15%;
     transform: translateX(-15%);
 }
+
+@media (max-width: 767px) {
+    label {
+      text-align: left;
+    }
+}
+
+@media (min-width: 768px) {
+    label {
+        text-align: center;
+    }
+}
