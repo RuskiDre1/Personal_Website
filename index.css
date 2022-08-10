@@ -5,3 +5,8 @@
 .navbar {
     background: #1d1d1f;
 }
+#profile {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
